@@ -1,0 +1,6 @@
+C:\Users\RRagini\source\repos\BasicMath\bin\Debug\BasicMath.exe.config
+C:\Users\RRagini\source\repos\BasicMath\bin\Debug\BasicMath.exe
+C:\Users\RRagini\source\repos\BasicMath\bin\Debug\BasicMath.pdb
+C:\Users\RRagini\source\repos\BasicMath\obj\Debug\BasicMath.csproj.CoreCompileInputs.cache
+C:\Users\RRagini\source\repos\BasicMath\obj\Debug\BasicMath.exe
+C:\Users\RRagini\source\repos\BasicMath\obj\Debug\BasicMath.pdb
