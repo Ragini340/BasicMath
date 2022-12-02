@@ -4,12 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BasicMath
+namespace SampleUnitTestPractice
 {
-    class Program
-    {
-        static void Main(string[] args)
+    public class Program
+    { 
+        public static void Main(string[] args)
         {
+
+        }
+           public string concat(string name, string surname)
+            {
+              return name + surname;
+            }
         }
     }
-}
+
